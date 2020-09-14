@@ -1,0 +1,47 @@
+body,
+body * {
+margin: 0;
+padding: 0;
+vertical-align: top;
+box-sizing: border-box;
+}
+body{
+    width: 1280px;
+    height: 720px;
+    background-color: coral;
+    display: inline-block;
+}
+header{ 
+    background-color:rgb(8, 8, 58);
+    display: inline-block;
+    width: 1350px;
+    transform: rotate(-25deg);
+    margin-top: 300px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+nav{
+    float: right;
+    border: 1px solid red;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+   
+}
+a{
+    float: left;
+    padding: 30px;
+    padding-bottom: 5px;
+   
+}
+
+img{
+    width: 200px;
+    padding: 10px;
+    float: left;
+}
+div{
+    display: inline-block;
+    float: right;
+}
