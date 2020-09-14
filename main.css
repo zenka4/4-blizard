@@ -16,8 +16,7 @@ header{
     display: inline-block;
     width: 100%;
     transform: rotate(-25deg);
-    margin-top: 300px;
-    margin-left: 200px;
+    margin-top: 335px;
     border-radius: 10px;
     border-top: 3px solid blue;
 }
